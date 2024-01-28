@@ -1,7 +1,7 @@
-![Headshot]([https://github.com/Rdssvarma/UMBC-DATA606-FALL2023-THURSDAY/blob/main/Photo.jpg](https://github.com/SaiRuthvik17/UMBC-DATA606-Capstone/blob/main/Docs/headshot.jpeg))
+![Headshot]((https://github.com/SaiRuthvik17/UMBC-DATA606-Capstone/blob/main/Docs/headshot.jpeg))
 
 # Sai Ruthvik Anantapalli
-Catonsville, Maryland, 21228 | 443-851-1593 | sairuthvik@umbc.edu | www.linkedin.com/in/sai-ruthvik-anantapalli-884b43227
+Catonsville, Maryland, 21228 | 443-851-1593 | sairuthvik17@gmail.com | 
 
 ### Education
 
