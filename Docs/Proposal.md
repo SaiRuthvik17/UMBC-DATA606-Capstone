@@ -8,7 +8,8 @@
     
 ## 2. Background
 
-- **What is it about?** \n
+- **What is it about?**
+  
   The project focuses on predicting loan eligibility for individuals applying for loans. Using machine learning models, it aims to analyze various applicant details, such as demographic information, financial history, and loan requirements, to determine the likelihood of loan approval. The dataset includes variables like Gender, Marital Status, Education, Employment Status, Applicant and Coapplicant Income, Loan Amount and Term, Credit History, Property Area, and the Loan Status (approved or denied). The goal is to assist lenders in making informed decisions about loan approvals and to potentially streamline the application process for both lenders and applicants.
   
 - **Why does it matter?** 
