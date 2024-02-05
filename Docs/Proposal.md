@@ -27,11 +27,19 @@
 ## 3. Data 
 
 - Data sources: https://www.kaggle.com/datasets/vikasukani/loan-eligible-dataset?select=loan-test.csv
+
 - Data size: 60kb
-- Data shape: loan-train : 614 rows and 13 columns
+
+- Data shape:
+
+  loan-train : 614 rows and 13 columns
+
   loan-test: 367 rows and 12 columns
+
 - What does each row represent?
+  
   Each row represents a loan application details submitted by each individual. This consists of different categories and requirements for the approval of loan.
+
 - Data dictionary
 
 | Columns Name        | Data Type | Definition                                          | Potential Values                   |
