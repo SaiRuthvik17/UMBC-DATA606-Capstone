@@ -1,9 +1,13 @@
 ## 1. Title and Author
 
 - Project Title: Loan Eligibility Prediction
+
 - Prepared for UMBC Data Science Master Degree Capstone by Dr Chaojie (Jay) Wang
+
 - Author Name: Sai Ruthvik Anantapalli
+
 - Link to the author's GitHub profile: https://github.com/SaiRuthvik17
+
 - Link to the author's LinkedIn progile: www.linkedin.com/in/sai-ruthvik-anantapalli-884b43227
     
 ## 2. Background
@@ -67,10 +71,10 @@
 
   Credit_History: This is a key indicator of a borrower's reliability and past loan repayment behavior. A positive credit history suggests a higher probability of timely loan repayments, making it a critical factor in loan approval decisions.
 
-ApplicantIncome: This reflects the applicant's ability to repay the loan. Higher income levels generally increase the likelihood of loan approval as they indicate greater financial stability and repayment capacity.
+  ApplicantIncome: This reflects the applicant's ability to repay the loan. Higher income levels generally increase the likelihood of loan approval as they indicate greater financial stability and repayment capacity.
 
-LoanAmount: This determines the risk associated with the loan. Larger loan amounts may be perceived as higher risk, affecting the approval decision. The amount requested needs to be within reasonable limits based on the applicant's income.
+  LoanAmount: This determines the risk associated with the loan. Larger loan amounts may be perceived as higher risk, affecting the approval decision. The amount requested needs to be within reasonable limits based on the applicant's income.
 
-CoapplicantIncome: This enhances the assessment of repayment capacity. The inclusion of a coapplicant's income can significantly increase the total income considered for loan repayment, potentially offsetting risks associated with lower primary applicant incomes.
+  CoapplicantIncome: This enhances the assessment of repayment capacity. The inclusion of a coapplicant's income can significantly increase the total income considered for loan repayment, potentially offsetting risks associated with lower primary applicant incomes.
 
-Education: This indicates the applicant's level of education, which can be a proxy for earning potential and financial literacy. Applicants with higher education levels may be perceived as having better employment prospects and stability, potentially influencing loan approval positively.
+  Education: This indicates the applicant's level of education, which can be a proxy for earning potential and financial literacy. Applicants with higher education levels may be perceived as having better employment prospects and stability, potentially influencing loan approval positively.
