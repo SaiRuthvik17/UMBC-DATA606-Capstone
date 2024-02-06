@@ -8,7 +8,7 @@
 
 - Link to the author's GitHub profile: https://github.com/SaiRuthvik17
 
-- Link to the author's LinkedIn progile: www.linkedin.com/in/sai-ruthvik-anantapalli-884b43227
+- Link to the author's LinkedIn profile: www.linkedin.com/in/sai-ruthvik-anantapalli-884b43227
     
 ## 2. Background
 
