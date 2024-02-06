@@ -23,8 +23,11 @@
 - What are your research questions?
   
   What all factors (or) attributes most significantly influence the loan approval decisions?
+  
   How does applicant's and co-applicant's income level affect the loan eligibility?
+
   How can the credit history attribute play in determining loan acceptance?
+
   How will the different categories of property area reflect on loan approval?
   
   
