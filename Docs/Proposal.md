@@ -1,6 +1,6 @@
 ## 1. Title and Author
 
-- Project Title: Loan Eligibility Prediction
+- **Project Title**: Loan Eligibility Prediction
 
 - Prepared for UMBC Data Science Master Degree Capstone by Dr Chaojie (Jay) Wang
 
