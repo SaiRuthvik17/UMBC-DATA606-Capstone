@@ -31,8 +31,7 @@ Accurate loan eligibility prediction is significant for several reasons: efficie
 
 **Data Size:** 60kb
 
-**Data Shape**
-
+**Data Shape:**
 * loan-train: 614 rows, 13 columns
 * loan-test: 367 rows, 12 columns
 
