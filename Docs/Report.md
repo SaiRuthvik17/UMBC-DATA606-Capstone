@@ -1,6 +1,6 @@
-## Loan Eligibility Prediction - Markdown Format
+### Loan Eligibility Prediction
 
-**1. Title and Author**
+## **1. Title and Author**
 
 * **Project Title:** Loan Eligibility Prediction
 * **Prepared for:** UMBC Data Science Master Degree Capstone by Dr Chaojie (Jay) Wang
@@ -8,7 +8,7 @@
 * **Author's GitHub Profile:** [https://github.com/SaiRuthvik17](https://github.com/SaiRuthvik17)
 * **Author's LinkedIn Profile:** [www.linkedin.com/in/sai-ruthvik-anantapalli-884b43227](https://www.linkedin.com/in/sai-ruthvik-anantapalli-884b43227)
 
-**2. Background**
+## **2. Background**
 
 **What is it about?**
 
@@ -25,7 +25,7 @@ Accurate loan eligibility prediction is significant for several reasons: efficie
 * How does credit history impact loan acceptance?
 * How do property area categories affect loan approval?
 
-**3. Data**
+## **3. Data**
 
 **Data Source:** [https://www.kaggle.com/datasets/vikasukani/loan-eligible-dataset?select=loan-test.csv](https://www.kaggle.com/datasets/vikasukani/loan-eligible-dataset?select=loan-test.csv)
 
@@ -70,7 +70,7 @@ Each row represents a loan application with details submitted by an individual. 
 * CoapplicantIncome: Enhances the assessment of repayment capacity.
 * Education: A proxy for earning potential and financial literacy.
 
-**4. Exploratory Data Analysis (EDA)**
+## **4. Exploratory Data Analysis (EDA)**
 
 * Performed using Jupyter Notebook, focusing on the target variable ('Loan_Status') and selected features.
 * Created summary statistics of key variables and visualizations using MatplotLib to gain insights.
@@ -80,7 +80,7 @@ Each row represents a loan application with details submitted by an individual. 
     * Missing values were found in some columns and imputed using median/mode methods.
     * No duplicate rows were found.
 
-**5. Model Training**
+## **5. Model Training**
 
 Three machine learning models were used to train and test the data:
 
@@ -99,11 +99,11 @@ Three machine learning models were used to train and test the data:
 * Performance was evaluated using metrics like accuracy, precision, recall, and F1-score. 
 * These metrics helped compare model performance and select the best model for deployment.
 
-**6. Application of the Trained Model**
+## **6. Application of the Trained Model**
 
 A web application was developed using Streamlit to allow users to interact with the trained model. This application enables individuals to input their loan application details and receive real-time predictions regarding their loan eligibility. The user-friendly interface aims to make the loan approval process more accessible and transparent for both lenders and applicants.
 
-**7. Conclusion**
+## **7. Conclusion**
 
 This project highlights the importance of accurate loan eligibility prediction using machine learning. Predictive models trained on historical loan data can streamline the lending process, improve decision-making for financial institutions, and promote financial inclusion. While this analysis provides valuable insights, there are limitations to consider, such as:
 
@@ -118,6 +118,6 @@ This project highlights the importance of accurate loan eligibility prediction u
 * Utilizing live data to continuously train and improve the model's performance.
 * Exploring advanced machine learning techniques for further enhanced predictive accuracy and fairness in lending practices.
 
-**8. References**
+## **8. References**
 
 
