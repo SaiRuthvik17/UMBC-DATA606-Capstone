@@ -1,11 +1,11 @@
 1. Title and Author
-Project Title: Loan Eligibility Prediction
+  Project Title: Loan Eligibility Prediction
 
-Prepared for UMBC Data Science Master Degree Capstone by Dr Chaojie (Jay) Wang
+  Prepared for UMBC Data Science Master Degree Capstone by Dr Chaojie (Jay) Wang
 
-Author Name: Sai Ruthvik Anantapalli
+  Author Name: Sai Ruthvik Anantapalli
 
-Link to the author's GitHub profile: https://github.com/SaiRuthvik17
+  Link to the author's GitHub profile: https://github.com/SaiRuthvik17
 
 Link to the author's LinkedIn profile: www.linkedin.com/in/sai-ruthvik-anantapalli-884b43227
 
