@@ -1,4 +1,4 @@
-### Loan Eligibility Prediction
+#### **Loan Eligibility Prediction**
 
 ## **1. Title and Author**
 
