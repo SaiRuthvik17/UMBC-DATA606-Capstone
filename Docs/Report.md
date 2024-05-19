@@ -120,9 +120,4 @@ This project highlights the importance of accurate loan eligibility prediction u
 
 **8. References**
 
-Include a list of references used in your project here. 
 
-**Note:**
-
-* Replace bracketed text `https://www.lipsum.com/` with the actual reference and link. 
-* Ensure proper formatting for the reference list based on your chosen referencing style (e.g., APA, MLA).
