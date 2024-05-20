@@ -117,7 +117,3 @@ This project highlights the importance of accurate loan eligibility prediction u
 * Incorporating additional data sources for potentially richer insights.
 * Utilizing live data to continuously train and improve the model's performance.
 * Exploring advanced machine learning techniques for further enhanced predictive accuracy and fairness in lending practices.
-
-## **8. References**
-
-
