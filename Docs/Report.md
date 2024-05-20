@@ -1,12 +1,13 @@
 # **Loan Eligibility Prediction**
 
-## **1. Title and Author**
+## **1. Author Information**
 
-* **Project Title:** Loan Eligibility Prediction
-* **Prepared for:** UMBC Data Science Master Degree Capstone by Dr Chaojie (Jay) Wang
 * **Author Name:** Sai Ruthvik Anantapalli
+* **Prepared for:** UMBC Data Science Master Degree Capstone by Dr Chaojie (Jay) Wang
 * **Author's GitHub Profile:** [https://github.com/SaiRuthvik17](https://github.com/SaiRuthvik17)
 * **Author's LinkedIn Profile:** [www.linkedin.com/in/sai-ruthvik-anantapalli-884b43227](https://www.linkedin.com/in/sai-ruthvik-anantapalli-884b43227)
+* **PowerPoint Predentation:** [https://docs.google.com/presentation/d/15A_H35Sw8YeNzz0DYBGX4nF83Yib7xflUtdVAUTlD0I/edit#slide=id.p5](https://docs.google.com/presentation/d/15A_H35Sw8YeNzz0DYBGX4nF83Yib7xflUtdVAUTlD0I/edit#slide=id.p5)
+* **YouTube Video:** [https://youtu.be/TucyWCtsC4Y](https://youtu.be/TucyWCtsC4Y)
 
 ## **2. Background**
 
@@ -91,7 +92,7 @@ Three machine learning models were used to train and test the data:
 
 * The train-test split method was used with a 70/30 split ratio, dividing the data into training and testing sets.
 * Python libraries like scikit-learn were used for model training and evaluation.
-* The development environment was Jupyter Notebook running on a local machine.
+* The development environment was Google Colab running on a virtual machine.
 
 **Model Evaluation:**
 
